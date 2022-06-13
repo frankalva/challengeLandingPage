@@ -1,1 +1,1 @@
-##Informacion del Proyecto
+# Informacion del Proyecto
