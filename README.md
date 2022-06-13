@@ -13,3 +13,4 @@ Nuestro segmento objetivo serán las personas que recibirán las donaciones, ya 
 
 # Principales Caracteristicas
 Desarrollar una aplicación de gestión de donaciones, que trabaje con una base de datos de donantes y voluntarios que quieran ayudar a situaciones de extrema pobreza, se logre monitorear de manera eficaz y ordenada las donaciones que se realicen en cualquier fecha y lugar. 
+A traves del proyecto realizado se evidenciara no solo una ayuda a la comunidad, sino un creciemiento tecnológico que se podra implementar a varias aplicaciones, ya que muchas de ella no cuentan con lo que nosotros proponemos.
