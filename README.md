@@ -1,4 +1,4 @@
-#Informacion del Proyecto
+##Informacion del Proyecto
 CHARITYNOW es una aplicación de gestión de donaciones mediante realidad virtual la cual permite poder hacer donaciones a las personas que se encuentran en una situación de extrema pobreza. Esta app está dirigida a profesionales que estén interesados en hacer las donaciones y voluntarios que quieran ayudar con la causa. 
 
 #Autores
