@@ -15,3 +15,5 @@ Nuestro segmento objetivo se van a basar en tres tipos diferentes, en primer lug
 -Desarrollar una aplicación de gestión de donaciones, que trabaje con una base de datos de donantes y voluntarios que quieran ayudar a situaciones de extrema pobreza, se logre monitorear de manera eficaz y ordenada las donaciones que se realicen en cualquier fecha y lugar. 
 
 -A tráves del proyecto realizado se evidenciara no solo una ayuda a la comunidad, sino un creciemiento tecnológico que se podra implementar a varias aplicaciones, ya que muchas de ella no cuentan con lo que nosotros proponemos.
+
+-Este proyecto permite un alcance mas sencillo y mas amplio entre el donante y el beneficiado, ya que permite establecer una comunicación mas fluida que permite al donante conocer a su beneficiado conociendo cual es el proceso de entrega y conociendo su confiabilidad.
