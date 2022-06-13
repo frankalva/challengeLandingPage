@@ -9,7 +9,7 @@ CHARITYNOW es una aplicación de gestión de donaciones mediante realidad virtua
 - Angie Nayeli Ruiz Carhuamaca;
 
 # Segmento Objetivo
-Nuestro segmento objetivo se van a basar en tres tipos diferentes, en primer lugar están las personas que recibirán las donaciones, ya que esta aplicación se realizará para su conformidad. Por eso, la aplicación busca evitar el desorden en la planificación y entrega de donaciones, y así evitar las irregularidades en el proceso. En segundo lugar tenemos a los prefesionales y/o organizaciones, pues estos aportarán a que las personas beneficiadas reciban alguna donación y por último tenemos a los voluntarios.
+Nuestro segmento objetivo se van a basar en tres tipos diferentes, en primer lugar están las personas que recibirán las donaciones, ya que esta aplicación se realizará para su conformidad. Por eso, la aplicación busca evitar el desorden en la planificación y entrega de donaciones, y así evitar las irregularidades en el proceso. En segundo lugar tenemos a los prefesionales y/o organizaciones, pues estos aportarán a que las personas beneficiadas reciban alguna donación y por último tenemos a los voluntarios, los cuales se encargaran de llevar las donaciones a las personas beneficiadas.
 
 # Principales Caracteristicas
 -Desarrollar una aplicación de gestión de donaciones, que trabaje con una base de datos de donantes y voluntarios que quieran ayudar a situaciones de extrema pobreza, se logre monitorear de manera eficaz y ordenada las donaciones que se realicen en cualquier fecha y lugar. 
